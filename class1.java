@@ -13,6 +13,8 @@ public class class1 {
         width = sc.nextDouble();
         height = sc.nextDouble();
         depth = sc.nextDouble();
+    }
+    public static void main(String[] args) {
         System.out.println(vol);
     }
 }
